@@ -1,0 +1,54 @@
+I was unable to get the diff command to work to compare two files
+I am unable to get Sublime installed and hoping the tutorial at the end clears things up.
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+I was unable to get the diff command to work to compare two files
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+You're able to see changes and identify points of change where an error may have occurred and an opportunity without having to start at the beginning.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pro - total control over the process
+    Con - you may forget to save 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    It's more cumbersome to track numerous versions of the same file and most people are primarily interested in reducing the number of files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    The diff command will compare one file to another and identify variances.
+
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    If you have code saved, you can always go back and replace the new code with a version you know works.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Not sure yet!
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Being able to review prior work could be helpful in solving lots of different sorts of problems and also prevents having to reinvent something if a file is lost.
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+You can choose dependent on the size of the change/commit. You can commit each time you make a shift and will keep your breadcrumb trail easy to follow.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Greater control over the file.
+
+How can you use the commands git log and git diff to view the history of files
+Git log shows the whole history, git diff is a comparison tool to compare versions 
+ 
