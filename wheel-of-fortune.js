@@ -15,9 +15,9 @@
   var letter = 'A';
 
 if (isGuessingLetter = true); {
-  console.log("What is your guess?"");
+  console.log("What is your guess?");
 } else if (isGuessingLetter = false) {
-  console.log("What is the solution?"");
+  console.log("What is the solution?");
 }
 
 if (letter = 'A'); {
@@ -35,7 +35,7 @@ if (letter = 'A'); {
 if (word = "CATS"); {
    console.log("Nope, keep trying!");
 } else if (word = "DOGS"); {
-   console.log("Congratulations! You won Wheel of Fortune!"");
+   console.log("Congratulations! You won Wheel of Fortune!");
 }
 
 </body>
