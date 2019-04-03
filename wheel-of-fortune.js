@@ -1,6 +1,6 @@
-  var word = 'DOGS';
+  var word = "DOGS";
   var isGuessingLetter = true;
-  var letter = 'A';
+  var letter = "A";
 
 if (isGuessingLetter = true); {
   console.log("What is your guess?");
@@ -8,7 +8,7 @@ if (isGuessingLetter = true); {
   console.log("What is the solution?");
 }
 
-if (letter = 'A'); {
+if (letter = "A"); {
   console.log("Sorry, no " + letter + "!");
 } else if (letter === "D"); {
   console.log("D___");
