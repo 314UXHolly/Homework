@@ -25,3 +25,8 @@ if (word = "CATS") {
 } else if (word = "DOGS") {
    console.log("Congratulations! You won Wheel of Fortune!");
 }
+
+for (var i = 0; i < "DOGS"; i++) {
+  word += i;
+}
+console.log(word)
