@@ -1,15 +1,3 @@
-<!doctype html>
-<html lang='en'>
-<link rel='stylesheet' type='text/css' href='styles.css'>
-
-  <head>
-    <!-- Required meta tags -->
-    <meta charset='utf-8'>
-    <meta name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no'>
-
-<title>Wheel of Fortune</title>
-</head>
-<body>
   var word = 'DOGS';
   var isGuessingLetter = true;
   var letter = 'A';
@@ -37,5 +25,3 @@ if (word = "CATS"); {
 } else if (word = "DOGS"); {
    console.log("Congratulations! You won Wheel of Fortune!");
 }
-
-</body>
