@@ -16,9 +16,7 @@ p.sansserif {
 a:visited {
   color: black;
 }
-a.customvisited:visited {
-  color: whitesmoke;
-}
+
 
 h1 {
   color: black;
@@ -126,6 +124,13 @@ a:active {
     nav{
     margin-bottom: 20px;
         }
+
+
+  a {
+    color: #fffff;
+    text-decoration: none;
+    background-color: transparent;
+    }
 
 .container {
     display: grid;
